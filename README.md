@@ -1,4 +1,5 @@
-# IMDb Analysis
+# IMDb Analysis: A Common Viewer
+## Exploring Audience Tastes in Film Through IMDb Ratings & Reviews
 
 Why do people like the movies they do?
 
